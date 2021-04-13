@@ -1,4 +1,4 @@
-# Laboratory 03
+# Parcial 01
 
 ## Indications
 Etapa I: Registro de usuario (cuenta telefónica recién adquirida)
